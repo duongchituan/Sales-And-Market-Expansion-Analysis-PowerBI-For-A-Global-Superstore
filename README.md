@@ -116,11 +116,28 @@ The dataset consists of three tables:
 | Profit          | DECIMAL   | Profit earned from the order.                     |
 
 </details>
+- Returns – Stores data on returned orders.  
+<details>
+<summary><strong>📦 Table 2: Returns</strong></summary>
 
- 
+| Column Name | Data Type | Description                                           |
+|-------------|-----------|-------------------------------------------------------|
+| Returned    | VARCHAR   | Indicates whether the order was returned (e.g., 'Yes' or 'No'). |
+| Order ID    | VARCHAR   | Unique identifier for each order.                    |
 
-- Returns – Stores data on returned orders.
+</details>
+
 - People – Holds information about sales representatives.
+<details>
+<summary><strong>🧑‍💼 Table 3: People</strong></summary>
+
+| Column Name | Data Type | Description                                           |
+|-------------|-----------|-------------------------------------------------------|
+| Person      | VARCHAR   | Name of the salesperson.                             |
+| Region      | VARCHAR   | Geographic region where the salesperson operates.    |
+
+</details>
+
 #### 2️⃣ Table Schema & Data Snapshot  
 
 Table 1: Products Table  
