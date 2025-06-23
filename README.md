@@ -14,8 +14,7 @@ Tools Used: Power BI
 1. [📌 Background & Overview](#-background--overview)  
 2. [📂 Dataset Description & Data Structure](#-dataset-description--data-structure)  
 3. [🧠 Design Thinking Process](#-design-thinking-process)  
-4. [📊 Key Insights & Visualizations](#-key-insights--visualizations)  
-5. [🔎 Final Conclusion & Recommendations](#-final-conclusion--recommendations)
+4. [📊 Key Insights & Visualizations & Recommendations](#-key-insights--visualizations)  
 
 ---
 
@@ -164,22 +163,7 @@ Explain the step-by-step approach taken to solve the problem.
 
 4️⃣ Prototype and review  
 
----
-
-## ⚒️ Main Process
-
-1️⃣ Data Cleaning & Preprocessing  
-2️⃣ Exploratory Data Analysis (EDA)  
-3️⃣ SQL/ Python Analysis 
-
-- In each step, show your Code
-
-- Include query/ code execution screenshots or result samples
-
-- Explain its purpose and its findings
-
-
-4️⃣ Power BI Visualization  (applicable for PBI Projects)
+This part is in the dashboard
 
 ---
 
@@ -187,12 +171,37 @@ Explain the step-by-step approach taken to solve the problem.
 
 ### 🔍 Dashboard Preview  
 
-#### 1️⃣ Dashboard 1 Preview  
-👉🏻 Insert Power BI dashboard screenshots here  
+#### 1️⃣ Overview 
 
-📌 Analysis 1:  
-- Observation: _Describe trends, key metrics, and patterns._  
-- Recommendation: _Suggest actions based on insights._  
+![image](https://github.com/user-attachments/assets/ad0862a1-f30d-459d-8344-fa3a65757af8)  
+
+Từ năm 2011 đến 2014, công ty duy trì tốc độ tăng trưởng tốt về doanh thu và lợi nhuận. Riêng năm 2014, doanh thu tiếp tục tăng mạnh (+24% so với 2013). Tuy nhiên, biên lợi nhuận (Profit Margin) lại có dấu hiệu giảm nhẹ trên cả ba thị trường chính (APAC, EU, US), phản ánh một số vấn đề về hiệu quả sinh lời.
+
+📌 Analysis:  
+  📈 Doanh thu tăng nhưng lợi nhuận không theo kịp
+Biên lợi nhuận cao nhất xuất hiện ở năm 2013 (11.97%), không phải năm có doanh thu cao nhất (2014). Điều này phản ánh rằng khi doanh thu tăng, chi phí cũng tăng theo—có thể là dấu hiệu công ty đang đánh đổi margin để mở rộng quy mô.
+
+🚚 Gia tăng đơn hàng qua các phương thức giao hàng chi phí cao
+Số lượng đơn hàng sử dụng First Class tăng từ 2.4K → 3.2K (+33%) và Same Day tăng từ 0.8K → 1.0K (+25%). Đây là những kênh có chi phí vận hành cao, làm tăng chi phí logistics tổng thể nhanh hơn tốc độ tăng lợi nhuận gộp.  
+
+🛍️ Tỷ trọng nhóm hàng lợi nhuận thấp tăng lên
+Đặc biệt, nhóm Office Supplies—dù có biên lợi nhuận thấp—lại ghi nhận lượng đơn hàng tăng mạnh trong năm 2014. Sự gia tăng này khiến cơ cấu sản phẩm dịch chuyển theo hướng kém lợi nhuận hơn, làm ảnh hưởng đến biên lợi nhuận toàn doanh nghiệp.  
+
+🔁 Tỷ lệ hoàn trả tăng nhẹ tại APAC và US
+So với 2013, năm 2014 ghi nhận tỷ lệ hoàn trả tăng ở các thị trường lớn như APAC (4.99% → 5.04%) và US (5.90% → 6.12%). Mức tăng tuy nhỏ, nhưng khi kết hợp với chi phí vận chuyển cao và cơ cấu hàng hóa kém tối ưu, nó góp phần làm giảm doanh thu ròng và tăng chi phí xử lý.
+
+⚠️ Tổng hợp ba yếu tố khiến biên lợi nhuận suy giảm
+Việc giảm Profit Margin năm 2014 không đến từ một yếu tố đơn lẻ mà là hệ quả của:
+(1) tăng tỷ lệ sử dụng ship đắt tiền,
+(2) tỷ trọng nhóm hàng lời thấp tăng,
+(3) tỷ lệ hoàn trả tăng.
+→ Tất cả kết hợp lại gây áp lực lớn lên chi phí và bào mòn lợi nhuận.  
+
+🌍 EU – doanh thu cao nhưng return rate cao nhất (6.18%)
+Mặc dù EU là một trong những thị trường lớn nhất về doanh thu và lợi nhuận, nhưng lại có tỷ lệ hoàn trả cao nhất toàn hệ thống. Đây là dấu hiệu cảnh báo về chất lượng sản phẩm, dịch vụ hậu mãi hoặc trải nghiệm khách hàng chưa tốt. Nếu không cải thiện, điều này sẽ tiếp tục ảnh hưởng tới lợi nhuận dài hạn.
+
+🪑 Furniture – danh mục sản phẩm yếu kém
+Trong 3 nhóm chính (Technology, Office Supplies, Furniture), nhóm Furniture ghi nhận lợi nhuận thấp nhất. Rất có thể danh mục này được giữ lại vì mục tiêu đa dạng hóa, nhưng trên thực tế đang kéo hiệu suất tổng thể đi xuống.
 
 #### 2️⃣ Dashboard 2 Preview  
 👉🏻 Insert Power BI dashboard screenshots here
@@ -210,11 +219,4 @@ Explain the step-by-step approach taken to solve the problem.
 
 ---
 
-## 🔎 Final Conclusion & Recommendations  
 
-👉🏻 Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following:  
-
-📌 Key Takeaways:  
-✔️ Recommendation 1  
-✔️ Recommendation 2  
-✔️ Recommendation 3
