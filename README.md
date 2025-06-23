@@ -89,8 +89,8 @@ Recommend a targeted expansion into Canada, focusing on high-margin products lik
 #### 1️⃣ Tables Used:  
 The dataset consists of three tables:  
 - Orders – Contains detailed transaction and customer information
-  <details>
-  <summary><strong>📊 Table 1: Orders</strong></summary>
+<details>
+<summary><strong>📊 Table 1: Orders</strong></summary>
 
 | Column Name     | Data Type | Description                                         |
 |-----------------|-----------|-----------------------------------------------------|
@@ -116,6 +116,8 @@ The dataset consists of three tables:
 | Profit          | DECIMAL   | Profit earned from the order.                     |
 
 </details>
+
+ 
 
 - Returns – Stores data on returned orders.
 - People – Holds information about sales representatives.
