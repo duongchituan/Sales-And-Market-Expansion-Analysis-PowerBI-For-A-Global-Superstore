@@ -199,9 +199,12 @@ So với 2013, năm 2014 ghi nhận tỷ lệ hoàn trả tăng ở các thị t
 ![3](https://github.com/user-attachments/assets/9509d04d-c6b4-4c28-bca9-6d7f80448e78)
 
 ⚠️ Tổng hợp ba yếu tố khiến biên lợi nhuận suy giảm
-Việc giảm Profit Margin năm 2014 không đến từ một yếu tố đơn lẻ mà là hệ quả của:
-(1) tăng tỷ lệ sử dụng ship đắt tiền,
-(2) tỷ trọng nhóm hàng lời thấp tăng,
+Việc giảm Profit Margin năm 2014 không đến từ một yếu tố đơn lẻ mà là hệ quả của:  
+
+(1) tăng tỷ lệ sử dụng ship đắt tiền  
+
+(2) tỷ trọng nhóm hàng lời thấp tăng  
+
 (3) tỷ lệ hoàn trả tăng.
 → Tất cả kết hợp lại gây áp lực lớn lên chi phí và bào mòn lợi nhuận.  
 
