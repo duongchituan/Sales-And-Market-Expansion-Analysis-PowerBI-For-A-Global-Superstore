@@ -57,8 +57,8 @@ This project provides a Power BI dashboard to support strategic decision-making.
 ✔️ Profit Margin Decline in 2014:
 Despite a strong revenue increase (+24% vs. 2013), the company experienced a slight drop in overall profit margin (from 11.97% to 11.51%) due to rising operational costs.
 
-✔️ Higher Usage of Expensive Shipping Modes:
-Orders shipped via First Class rose by +33% (from 2.4K to 3.2K) and Same Day by +25% (from 0.8K to 1.0K), particularly within the Office Supplies category—putting downward pressure on profitability.
+✔️ Shift Toward Costly Shipping Methods:
+There was an increase in order volume using high-cost shipping methods, especially First Class (+33%) and Same Day (+25%), which led to faster growth in shipping expenses than in gross profit.
 
 ✔️ Suboptimal Product Mix Impacting Margins:
 The surge in Office Supplies orders—typically low-margin products—combined with costly shipping methods, contributed to the margin decline.
@@ -150,8 +150,13 @@ Explain the step-by-step approach taken to solve the problem.
 👉🏻 Insert a screenshot of the Design Thinking steps (Screenshot your Excel design thinking tables for better presentation).  
 
 1️⃣ Empathize  
+![image](https://github.com/user-attachments/assets/0d266023-7860-4faa-8e0b-9d7d63a0789e)
+![image](https://github.com/user-attachments/assets/0263534c-443f-42cf-8f3e-6d9ff752c977)
 2️⃣ Define point of view  
+![image](https://github.com/user-attachments/assets/01c1e607-acef-4da6-839b-74ef092edd69)
 3️⃣ Ideate  
+![image](https://github.com/user-attachments/assets/2478ca06-3795-4549-bb80-051f23aee05a)
+
 4️⃣ Prototype and review  
 
 ---
