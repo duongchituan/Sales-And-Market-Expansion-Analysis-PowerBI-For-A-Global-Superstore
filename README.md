@@ -175,20 +175,26 @@ This part is in the dashboard
 
 ![image](https://github.com/user-attachments/assets/ad0862a1-f30d-459d-8344-fa3a65757af8)  
 
-Từ năm 2011 đến 2014, công ty duy trì tốc độ tăng trưởng tốt về doanh thu và lợi nhuận. Riêng năm 2014, doanh thu tiếp tục tăng mạnh (+24% so với 2013). Tuy nhiên, biên lợi nhuận (Profit Margin) lại có dấu hiệu giảm nhẹ trên cả ba thị trường chính (APAC, EU, US), phản ánh một số vấn đề về hiệu quả sinh lời.
+Từ năm 2011 đến 2014, công ty duy trì tốc độ tăng trưởng tốt về doanh thu và lợi nhuận. Riêng năm 2014, doanh thu tiếp tục tăng mạnh (+24% so với 2013). Tuy nhiên, biên lợi nhuận (Profit Margin) lại có dấu hiệu giảm nhẹ trên cả ba thị trường chính (APAC, EU, US), phản ánh một số vấn đề về hiệu quả sinh lời.  
+
+![image.png](attachment:aa4575de-372e-42ab-b2be-51814c6f38ae:image.png)
 
 📌 Analysis:  
   📈 Doanh thu tăng nhưng lợi nhuận không theo kịp
 Biên lợi nhuận cao nhất xuất hiện ở năm 2013 (11.97%), không phải năm có doanh thu cao nhất (2014). Điều này phản ánh rằng khi doanh thu tăng, chi phí cũng tăng theo—có thể là dấu hiệu công ty đang đánh đổi margin để mở rộng quy mô.
 
 🚚 Gia tăng đơn hàng qua các phương thức giao hàng chi phí cao
-Số lượng đơn hàng sử dụng First Class tăng từ 2.4K → 3.2K (+33%) và Same Day tăng từ 0.8K → 1.0K (+25%). Đây là những kênh có chi phí vận hành cao, làm tăng chi phí logistics tổng thể nhanh hơn tốc độ tăng lợi nhuận gộp.  
+Trong năm 2014, công ty ghi nhận xu hướng gia tăng đơn hàng sử dụng các phương thức vận chuyển có chi phí cao như First Class và Same Day. Sự chuyển dịch này làm tăng chi phí logistics đáng kể, khiến tổng chi phí vận hành tăng nhanh hơn so với lợi nhuận gộp—góp phần làm suy giảm hiệu quả sinh lời.  
 
 🛍️ Tỷ trọng nhóm hàng lợi nhuận thấp tăng lên
 Đặc biệt, nhóm Office Supplies—dù có biên lợi nhuận thấp—lại ghi nhận lượng đơn hàng tăng mạnh trong năm 2014. Sự gia tăng này khiến cơ cấu sản phẩm dịch chuyển theo hướng kém lợi nhuận hơn, làm ảnh hưởng đến biên lợi nhuận toàn doanh nghiệp.  
 
+![image.png](attachment:bda54377-8142-4e93-ba1f-5861d5f79c0f:image.png)   
+
 🔁 Tỷ lệ hoàn trả tăng nhẹ tại APAC và US
-So với 2013, năm 2014 ghi nhận tỷ lệ hoàn trả tăng ở các thị trường lớn như APAC (4.99% → 5.04%) và US (5.90% → 6.12%). Mức tăng tuy nhỏ, nhưng khi kết hợp với chi phí vận chuyển cao và cơ cấu hàng hóa kém tối ưu, nó góp phần làm giảm doanh thu ròng và tăng chi phí xử lý.
+So với 2013, năm 2014 ghi nhận tỷ lệ hoàn trả tăng ở các thị trường lớn như APAC (4.99% → 5.04%) và US (5.90% → 6.12%). Mức tăng tuy nhỏ, nhưng khi kết hợp với chi phí vận chuyển cao và cơ cấu hàng hóa kém tối ưu, nó góp phần làm giảm doanh thu ròng và tăng chi phí xử lý.  
+
+![image.png](attachment:caf09d39-2d72-47a6-a0c0-3a41fb1510e3:image.png)
 
 ⚠️ Tổng hợp ba yếu tố khiến biên lợi nhuận suy giảm
 Việc giảm Profit Margin năm 2014 không đến từ một yếu tố đơn lẻ mà là hệ quả của:
@@ -201,7 +207,9 @@ Việc giảm Profit Margin năm 2014 không đến từ một yếu tố đơn 
 Mặc dù EU là một trong những thị trường lớn nhất về doanh thu và lợi nhuận, nhưng lại có tỷ lệ hoàn trả cao nhất toàn hệ thống. Đây là dấu hiệu cảnh báo về chất lượng sản phẩm, dịch vụ hậu mãi hoặc trải nghiệm khách hàng chưa tốt. Nếu không cải thiện, điều này sẽ tiếp tục ảnh hưởng tới lợi nhuận dài hạn.
 
 🪑 Furniture – danh mục sản phẩm yếu kém
-Trong 3 nhóm chính (Technology, Office Supplies, Furniture), nhóm Furniture ghi nhận lợi nhuận thấp nhất. Rất có thể danh mục này được giữ lại vì mục tiêu đa dạng hóa, nhưng trên thực tế đang kéo hiệu suất tổng thể đi xuống.
+Trong 3 nhóm chính (Technology, Office Supplies, Furniture), nhóm Furniture ghi nhận lợi nhuận thấp nhất. Rất có thể danh mục này được giữ lại vì mục tiêu đa dạng hóa, nhưng trên thực tế đang kéo hiệu suất tổng thể đi xuống.  
+
+💡 Recommendation:
 
 #### 2️⃣ Dashboard 2 Preview  
 👉🏻 Insert Power BI dashboard screenshots here
