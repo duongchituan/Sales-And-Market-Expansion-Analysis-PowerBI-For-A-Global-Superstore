@@ -150,11 +150,16 @@ Explain the step-by-step approach taken to solve the problem.
 👉🏻 Insert a screenshot of the Design Thinking steps (Screenshot your Excel design thinking tables for better presentation).  
 
 1️⃣ Empathize  
+
 ![image](https://github.com/user-attachments/assets/0d266023-7860-4faa-8e0b-9d7d63a0789e)
-![image](https://github.com/user-attachments/assets/0263534c-443f-42cf-8f3e-6d9ff752c977)
+![image](https://github.com/user-attachments/assets/0263534c-443f-42cf-8f3e-6d9ff752c977)  
+
 2️⃣ Define point of view  
-![image](https://github.com/user-attachments/assets/01c1e607-acef-4da6-839b-74ef092edd69)
+
+![image](https://github.com/user-attachments/assets/01c1e607-acef-4da6-839b-74ef092edd69)  
+
 3️⃣ Ideate  
+
 ![image](https://github.com/user-attachments/assets/2478ca06-3795-4549-bb80-051f23aee05a)
 
 4️⃣ Prototype and review  
