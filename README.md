@@ -177,9 +177,11 @@ This part is in the dashboard
 
 Từ năm 2011 đến 2014, công ty duy trì tốc độ tăng trưởng tốt về doanh thu và lợi nhuận. Riêng năm 2014, doanh thu tiếp tục tăng mạnh (+24% so với 2013). Tuy nhiên, biên lợi nhuận (Profit Margin) lại có dấu hiệu giảm nhẹ trên cả ba thị trường chính (APAC, EU, US), phản ánh một số vấn đề về hiệu quả sinh lời.  
 
-![image.png](attachment:aa4575de-372e-42ab-b2be-51814c6f38ae:image.png)
+![1](https://github.com/user-attachments/assets/be44600c-98c9-47d7-9c5d-aa8d50263cfc)
+
 
 📌 Analysis:  
+
   📈 Doanh thu tăng nhưng lợi nhuận không theo kịp
 Biên lợi nhuận cao nhất xuất hiện ở năm 2013 (11.97%), không phải năm có doanh thu cao nhất (2014). Điều này phản ánh rằng khi doanh thu tăng, chi phí cũng tăng theo—có thể là dấu hiệu công ty đang đánh đổi margin để mở rộng quy mô.
 
@@ -189,12 +191,12 @@ Trong năm 2014, công ty ghi nhận xu hướng gia tăng đơn hàng sử dụ
 🛍️ Tỷ trọng nhóm hàng lợi nhuận thấp tăng lên
 Đặc biệt, nhóm Office Supplies—dù có biên lợi nhuận thấp—lại ghi nhận lượng đơn hàng tăng mạnh trong năm 2014. Sự gia tăng này khiến cơ cấu sản phẩm dịch chuyển theo hướng kém lợi nhuận hơn, làm ảnh hưởng đến biên lợi nhuận toàn doanh nghiệp.  
 
-![image.png](attachment:bda54377-8142-4e93-ba1f-5861d5f79c0f:image.png)   
+![2](https://github.com/user-attachments/assets/826e0533-f500-446f-8e68-1987362e13d3)
 
 🔁 Tỷ lệ hoàn trả tăng nhẹ tại APAC và US
 So với 2013, năm 2014 ghi nhận tỷ lệ hoàn trả tăng ở các thị trường lớn như APAC (4.99% → 5.04%) và US (5.90% → 6.12%). Mức tăng tuy nhỏ, nhưng khi kết hợp với chi phí vận chuyển cao và cơ cấu hàng hóa kém tối ưu, nó góp phần làm giảm doanh thu ròng và tăng chi phí xử lý.  
 
-![image.png](attachment:caf09d39-2d72-47a6-a0c0-3a41fb1510e3:image.png)
+![3](https://github.com/user-attachments/assets/9509d04d-c6b4-4c28-bca9-6d7f80448e78)
 
 ⚠️ Tổng hợp ba yếu tố khiến biên lợi nhuận suy giảm
 Việc giảm Profit Margin năm 2014 không đến từ một yếu tố đơn lẻ mà là hệ quả của:
