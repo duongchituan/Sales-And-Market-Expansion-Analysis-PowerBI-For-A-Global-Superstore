@@ -54,14 +54,23 @@ This project provides a Power BI dashboard to support strategic decision-making.
 ✔️ What trends can inform our product and market expansion strategies?  
 
 ### 🎯Project Outcome:  
-Summarize key findings and insights/ trends/ themes in a concise, bullet-point 
-format.  
+✔️ Profit Margin Decline in 2014:
+Despite a strong revenue increase (+24% vs. 2013), the company experienced a slight drop in overall profit margin (from 11.97% to 11.51%) due to rising operational costs.
 
- _Example:_
+✔️ Higher Usage of Expensive Shipping Modes:
+Orders shipped via First Class rose by +33% (from 2.4K to 3.2K) and Same Day by +25% (from 0.8K to 1.0K), particularly within the Office Supplies category—putting downward pressure on profitability.
 
-✔️ Sales Trends: The top X% of products generate Y% of revenue.  
-✔️ Inventory Optimization: Certain products are frequently out-of-stock, causing revenue loss.  
-✔️ Customer Behavior: Returning customers spend Z% more per transaction than new customers.  
+✔️ Suboptimal Product Mix Impacting Margins:
+The surge in Office Supplies orders—typically low-margin products—combined with costly shipping methods, contributed to the margin decline.
+
+✔️ Return Rate Remained Stable:
+Return rates in key markets (APAC, EU, US) remained steady (around 5–7%) and were not a major driver of profit decline.
+
+✔️ High-Margin Niche Market Identified:
+Canada, though a small market (Revenue: 0.05M), achieved the highest profit margin (27.59%), with Copiers contributing 38% of total profit—highlighting a highly efficient product-market fit.
+
+✔️ Expansion Opportunity Identified:
+Recommend a targeted expansion into Canada, focusing on high-margin products like Copiers, while avoiding scale-up of low-margin categories such as Office Supplies.  
 
 ---
 
