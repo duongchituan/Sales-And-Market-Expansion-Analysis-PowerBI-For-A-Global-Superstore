@@ -1,16 +1,11 @@
-# UNIGAP - PORTFOLIO BUILDING MODULE -  PBI TEMPLATE
-
-🔥Use this template as an outline for your Github projects. Make a copy of this readme file and tailor it your own. Happy portfolio-ing and start applying aggressively :"))
+# 📊 Sales Performance & Market Expansion For A Global Superstore | Power BI
 
 ---
 ![E-commerce Website_Analysis](https://github.com/Dorothy-Ho-Vy/Sample-Readme-template/blob/0e47d32968459ec80d7d2666fbf5044ac56894e6/1.png)
 
-Change Icon emoji 🔥🔍📘🚩 to your likings by clicking "Start" + "."
-
-# 📊 Project Title: [Your Project Name]  
-Author: [Your Name]  
-Date: YYYY-MM-DD  
-Tools Used: SQL/ Power BI/ Python  
+Author: Duong Chi Tuan  
+Date: May 2025  
+Tools Used: Power BI  
 
 ---
 
@@ -28,14 +23,13 @@ Tools Used: SQL/ Power BI/ Python
 ### Objective:
 ### 📖 What is this project about? 
  
-- Provide a brief introduction to the project. Define the problem statement and why it is important.
-- Write in bullet point format
+This project provides a Power BI dashboard to support strategic decision-making. The objective is:  
 
- _Example:_
- 
- This project analyzes sales trends and inventory control using SQL and Power BI. The objective is
- - optimize stock levels & improve demand forecasting
- - reduce costs.  
+- Understand company-wide sales performance
+
+- Identify top products & regions for market expansion
+
+- Support senior management in selecting strategic products 
 
 ### 👤 Who is this project for?  
 
