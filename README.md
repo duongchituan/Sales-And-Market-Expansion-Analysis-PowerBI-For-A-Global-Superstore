@@ -33,9 +33,12 @@ This project provides a Power BI dashboard to support strategic decision-making.
 
 ### 👤 Who is this project for?  
 
-✔️ Senior managers & business decision-makers
-✔️ Strategy teams exploring market expansion
-✔️ Product managers evaluating performance
+✔️ Senior managers & business decision-makers  
+
+✔️ Strategy teams exploring market expansion  
+
+✔️ Product managers evaluating performance  
+
 ✔️ Data analysts supporting executive insights  
 
 ###  ❓Business Questions:  
