@@ -175,46 +175,54 @@ This part is in the dashboard
 
 ![image](https://github.com/user-attachments/assets/ad0862a1-f30d-459d-8344-fa3a65757af8)  
 
-Từ năm 2011 đến 2014, công ty duy trì tốc độ tăng trưởng tốt về doanh thu và lợi nhuận. Riêng năm 2014, doanh thu tiếp tục tăng mạnh (+24% so với 2013). Tuy nhiên, biên lợi nhuận (Profit Margin) lại có dấu hiệu giảm nhẹ trên cả ba thị trường chính (APAC, EU, US), phản ánh một số vấn đề về hiệu quả sinh lời.  
+From 2011 to 2014, the company maintained a strong growth trajectory in both revenue and profit. In 2014 alone, revenue grew significantly (+24% vs. 2013). However, profit margin showed a slight decline across all three key markets (APAC, EU, and US), indicating some underlying issues with profitability efficiency.  
 
 ![1](https://github.com/user-attachments/assets/be44600c-98c9-47d7-9c5d-aa8d50263cfc)
 
 
 📌 Analysis:  
 
-  📈 Doanh thu tăng nhưng lợi nhuận không theo kịp
-Biên lợi nhuận cao nhất xuất hiện ở năm 2013 (11.97%), không phải năm có doanh thu cao nhất (2014). Điều này phản ánh rằng khi doanh thu tăng, chi phí cũng tăng theo—có thể là dấu hiệu công ty đang đánh đổi margin để mở rộng quy mô.
+ 📈 Revenue increased, but profit didn't keep up
+Profit margin peaked in 2013 (11.97%), not in 2014 when revenue was highest. This suggests that as revenue grew, costs also rose—implying the company may be trading margin for scale.
 
-🚚 Gia tăng đơn hàng qua các phương thức giao hàng chi phí cao
-Trong năm 2014, công ty ghi nhận xu hướng gia tăng đơn hàng sử dụng các phương thức vận chuyển có chi phí cao như First Class và Same Day. Sự chuyển dịch này làm tăng chi phí logistics đáng kể, khiến tổng chi phí vận hành tăng nhanh hơn so với lợi nhuận gộp—góp phần làm suy giảm hiệu quả sinh lời.  
+🚚 Increase in high-cost shipping methods
+In 2014, there was a notable rise in orders using expensive shipping methods such as First Class and Same Day. This shift significantly raised logistics costs, which outpaced gross profit growth and eroded overall profitability.
 
-🛍️ Tỷ trọng nhóm hàng lợi nhuận thấp tăng lên
-Đặc biệt, nhóm Office Supplies—dù có biên lợi nhuận thấp—lại ghi nhận lượng đơn hàng tăng mạnh trong năm 2014. Sự gia tăng này khiến cơ cấu sản phẩm dịch chuyển theo hướng kém lợi nhuận hơn, làm ảnh hưởng đến biên lợi nhuận toàn doanh nghiệp.  
+🛍️ Higher share of low-margin product categories
+In particular, Office Supplies—a category with relatively low profit margins—experienced a surge in order volume. This shifted the product mix toward less profitable items, reducing the company's overall margin efficiency.  
 
 ![2](https://github.com/user-attachments/assets/826e0533-f500-446f-8e68-1987362e13d3)
 
-🔁 Tỷ lệ hoàn trả tăng nhẹ tại APAC và US
-So với 2013, năm 2014 ghi nhận tỷ lệ hoàn trả tăng ở các thị trường lớn như APAC (4.99% → 5.04%) và US (5.90% → 6.12%). Mức tăng tuy nhỏ, nhưng khi kết hợp với chi phí vận chuyển cao và cơ cấu hàng hóa kém tối ưu, nó góp phần làm giảm doanh thu ròng và tăng chi phí xử lý.  
+🔁 Slight increase in return rate in APAC and US
+Compared to 2013, the return rate rose in key markets like APAC (4.99% → 5.04%) and US (5.90% → 6.12%) in 2014. While the change is small, when combined with expensive shipping and a weak product mix, it added to costs and reduced net revenue.  
 
 ![3](https://github.com/user-attachments/assets/9509d04d-c6b4-4c28-bca9-6d7f80448e78)
 
-⚠️ Tổng hợp ba yếu tố khiến biên lợi nhuận suy giảm
-Việc giảm Profit Margin năm 2014 không đến từ một yếu tố đơn lẻ mà là hệ quả của:  
+⚠️ Three factors combined to reduce profit margin
+The margin drop in 2014 was not caused by a single issue, but by a combination of:
 
-(1) tăng tỷ lệ sử dụng ship đắt tiền  
+(1) increased use of high-cost shipping,
+(2) a rise in low-margin product share,
+(3) higher return rates.
+→ These factors together exerted cost pressure and squeezed profitability.
 
-(2) tỷ trọng nhóm hàng lời thấp tăng  
+🌍 EU – High revenue but also the highest return rate (6.18%)
+Although EU is one of the top contributors in both revenue and profit, it also has the highest return rate among all regions. This signals potential issues with product quality, after-sales service, or customer experience—and could hurt long-term margins if not addressed.
 
-(3) tỷ lệ hoàn trả tăng.
-→ Tất cả kết hợp lại gây áp lực lớn lên chi phí và bào mòn lợi nhuận.  
+🪑 Furniture – Underperforming product category
+Among the three main categories (Technology, Office Supplies, Furniture), Furniture generated the lowest profit. It may exist for catalog diversity, but in reality, it's dragging down the company's overall performance.  
 
-🌍 EU – doanh thu cao nhưng return rate cao nhất (6.18%)
-Mặc dù EU là một trong những thị trường lớn nhất về doanh thu và lợi nhuận, nhưng lại có tỷ lệ hoàn trả cao nhất toàn hệ thống. Đây là dấu hiệu cảnh báo về chất lượng sản phẩm, dịch vụ hậu mãi hoặc trải nghiệm khách hàng chưa tốt. Nếu không cải thiện, điều này sẽ tiếp tục ảnh hưởng tới lợi nhuận dài hạn.
+💡 Recommendation:  
 
-🪑 Furniture – danh mục sản phẩm yếu kém
-Trong 3 nhóm chính (Technology, Office Supplies, Furniture), nhóm Furniture ghi nhận lợi nhuận thấp nhất. Rất có thể danh mục này được giữ lại vì mục tiêu đa dạng hóa, nhưng trên thực tế đang kéo hiệu suất tổng thể đi xuống.  
+- Review shipping policies, especially for orders using First Class and Same Day. Consider applying minimum order thresholds or extra fees to manage logistics costs.
 
-💡 Recommendation:
+- Restructure the product mix to reduce dependency on low-margin items (like Office Supplies) and promote cross-selling with higher-performing products.
+
+- Investigate product quality and customer experience in the EU region, where the return rate is highest. Prioritize after-sales improvements or redesign return policies to limit loss.
+
+- Reassess or scale down the Furniture category if it continues to underperform in upcoming periods.
+
+- Track profit per order more closely, not just overall revenue or profit, to quickly detect operational inefficiencies.
 
 #### 2️⃣ Dashboard 2 Preview  
 👉🏻 Insert Power BI dashboard screenshots here
