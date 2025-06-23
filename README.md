@@ -87,8 +87,38 @@ Recommend a targeted expansion into Canada, focusing on high-margin products lik
 ### 📊 Data Structure & Relationships  
 
 #### 1️⃣ Tables Used:  
-Mention how many tables are in the dataset.  
+The dataset consists of three tables:  
+- Orders – Contains detailed transaction and customer information
+  <details>
+  <summary><strong>📊 Table 1: Orders</strong></summary>
 
+| Column Name     | Data Type | Description                                         |
+|-----------------|-----------|-----------------------------------------------------|
+| Order ID        | VARCHAR   | Unique identifier for each order.                  |
+| Order Date      | DATE      | Date when the order was placed.                   |
+| Ship Date       | DATE      | Date when the order was shipped.                  |
+| Ship Mode       | VARCHAR   | Shipping method used for delivery.                |
+| Customer ID     | VARCHAR   | Unique identifier for each customer.              |
+| Customer Name   | VARCHAR   | Full name of the customer.                        |
+| Segment         | VARCHAR   | Customer segment (e.g., Consumer, Corporate).     |
+| City            | VARCHAR   | City where the order was placed.                  |
+| State           | VARCHAR   | State where the order was placed.                 |
+| Country         | VARCHAR   | Country where the order was placed.               |
+| Postal Code     | VARCHAR   | Postal code of the shipping address.              |
+| Market          | VARCHAR   | Market region (e.g., APAC, EMEA).                 |
+| Region          | VARCHAR   | Geographical region of the order.                 |
+| Product ID      | VARCHAR   | Unique identifier for each product.               |
+| Category        | VARCHAR   | Product category (e.g., Furniture, Office Supplies). |
+| Sub-Category    | VARCHAR   | Sub-category of the product.                      |
+| Product Name    | VARCHAR   | Name of the product ordered.                      |
+| Sales           | DECIMAL   | Revenue generated from the order.                 |
+| Quantity        | INT       | Number of items ordered.                          |
+| Profit          | DECIMAL   | Profit earned from the order.                     |
+
+</details>
+
+- Returns – Stores data on returned orders.
+- People – Holds information about sales representatives.
 #### 2️⃣ Table Schema & Data Snapshot  
 
 Table 1: Products Table  
