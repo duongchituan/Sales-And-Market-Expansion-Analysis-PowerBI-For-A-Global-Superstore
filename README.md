@@ -225,18 +225,39 @@ Among the three main categories (Technology, Office Supplies, Furniture), Furnit
 - Track profit per order more closely, not just overall revenue or profit, to quickly detect operational inefficiencies.
 
 #### 2️⃣ Dashboard 2 Preview  
-👉🏻 Insert Power BI dashboard screenshots here
 
-📌 Analysis 2:   
-- Observation: _Describe trends, key metrics, and patterns._  
-- Recommendation: _Suggest actions based on insights._  
+![image](https://github.com/user-attachments/assets/57c30008-b5d0-49ba-ae73-cf41a7478857)
 
-#### 3️⃣ Dashboard 3 Preview  
-👉🏻 Insert Power BI dashboard screenshots here  
+📌 Analysis:   
 
-📌 Analysis 3:  
-- Observation: _Describe trends, key metrics, and patterns._  
-- Recommendation: _Suggest actions based on insights._  
+🇨🇦 Canada – Small market with exceptionally high margin
+Despite contributing only $0.05M in revenue and $0.01M in profit, Canada recorded the highest profit margin (27.59%) in the entire dataset.
+⚠️ However, due to the small sample size, just a few large transactions could create an inflated margin.
+→ Further validation at the SKU/product level is needed to confirm its potential.
+
+🌍 Africa – A small but surprisingly efficient market
+With $0.59M in revenue and $0.07M in profit, Africa reached a profit margin of 11.48%, aligning with the company average.
+→ This suggests potential for niche market expansion with controlled cost and focused targeting.  
+
+🖨️ Copiers – Key profit driver in Canada
+Copiers contributed 38% of total profit in Canada, making it a standout product for scaling efforts in this market.
+
+📱 Phones – High revenue, modest efficiency
+While it generated the highest revenue ($1.37M) across all SKUs, its profit margin is only 13.07%.
+→ A reassessment is needed to investigate operational or pricing inefficiencies.
+
+📄 Paper & Labels – Low-volume, high-margin SKUs
+Although small in revenue, these SKUs deliver 25%+ profit margins, suggesting strong potential if scaled carefully.
+
+💡 Recommendation:  
+
+- Scale up operations in Canada, focusing on high-margin categories such as Copiers, Office Supplies, and Technology.
+→ A lean, margin-driven strategy could prove highly effective here.
+
+- Explore niche expansion in Africa with selective investment in high-margin SKUs. Prioritize low-risk, cost-effective channels to test the waters.
+
+- Re-evaluate the overall SKU mix to reduce dependency on high-revenue but low-margin products like Phones, and shift toward smaller, high-efficiency items such as Paper and Labels.
+
 
 ---
 
