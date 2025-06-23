@@ -77,9 +77,12 @@ Recommend a targeted expansion into Canada, focusing on high-margin products lik
 ## 📂 Dataset Description & Data Structure  
 
 ### 📌 Data Source  
-- Source: (Mention where the dataset is obtained from—Kaggle, company database, government sources, etc.)  
-- Size: (Mention the number of rows & columns)  
-- Format: (.csv, .sql, .xlsx, etc.)  
+- Source: Kaggle  
+- Size:
+  - The Orders table contains 51,290 records
+  - The People table contains 13 records
+  - The Returns table contains 1,172 records  
+- Format: .csv  
 
 ### 📊 Data Structure & Relationships  
 
