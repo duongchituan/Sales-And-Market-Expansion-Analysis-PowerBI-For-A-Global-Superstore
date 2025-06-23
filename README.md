@@ -138,46 +138,10 @@ The dataset consists of three tables:
 
 </details>
 
-#### 2️⃣ Table Schema & Data Snapshot  
+#### 2️⃣ Data Relationships:  
 
-Table 1: Products Table  
+![image](https://github.com/user-attachments/assets/e16fece0-207e-48c9-81f4-ce7f92fc9958)
 
-👉🏻 Insert a screenshot of table schema 
-
- _Example:_
-
-| Column Name | Data Type | Description |  
-|-------------|----------|-------------|  
-| Product_ID  | INT      | Unique identifier for each product |  
-| Name        | TEXT     | Product name |  
-| Category    | TEXT     | Product category |  
-| Price       | FLOAT    | Price per unit |  
-
-
-
-Table 2: Sales Transactions  
-
-👉🏻 Insert a screenshot of table schema 
-
-
- _Example:_
-
-| Column Name    | Data Type | Description |  
-|---------------|----------|-------------|  
-| Transaction_ID | INT      | Unique identifier for each sale |  
-| Product_ID     | INT      | Foreign key linking to Products table |  
-| Quantity       | INT      | Number of items sold |  
-| Sale_Date      | DATE     | Date of transaction |  
-
-
-📌If the table is too big, only capture a part of it that contains key metrics you used in the projects or put the table in toggle
-
-#### 3️⃣ Data Relationships:  
-Describe the connections between tables—e.g., one-to-many, many-to-many.  
-
-👉🏻 Include a screenshot of Data Modeling to visualize relationships.  
-
----
 
 ## 🧠 Design Thinking Process  
 
