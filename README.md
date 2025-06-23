@@ -33,22 +33,21 @@ This project provides a Power BI dashboard to support strategic decision-making.
 
 ### 👤 Who is this project for?  
 
-Mention who might benefit from this project 
-
- _Example:_
-
-✔️ Data analysts & business analysts  
-✔️ Supply chain managers & inventory controllers  
-✔️ Decision-makers & stakeholders  
+✔️ Senior managers & business decision-makers
+✔️ Strategy teams exploring market expansion
+✔️ Product managers evaluating performance
+✔️ Data analysts supporting executive insights  
 
 ###  ❓Business Questions:  
-Clearly outline what the business questions project will solve.  
+✔️ Which products generate the most revenue and profit?
 
- _Example:_
+✔️ What are the top-performing regions or markets?
 
-✔️ Identify high-demand products and sales trends.  
-✔️ Optimize inventory levels to prevent overstocking or stockouts.  
-✔️ Provide actionable insights through Power BI dashboards.  
+✔️ Which customer segments are the most valuable?
+
+✔️ Are there markets with growth potential we haven’t tapped into yet?
+
+✔️ What trends can inform our product and market expansion strategies?  
 
 ### 🎯Project Outcome:  
 Summarize key findings and insights/ trends/ themes in a concise, bullet-point 
