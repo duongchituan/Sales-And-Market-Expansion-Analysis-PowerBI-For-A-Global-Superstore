@@ -42,10 +42,14 @@ This project provides a Power BI dashboard to support strategic decision-making.
 ✔️ Data analysts supporting executive insights  
 
 ###  ❓Business Questions:  
-✔️ Which products generate the most revenue and profit?
-✔️ What are the top-performing regions or markets?
-✔️ Which customer segments are the most valuable?
-✔️ Are there markets with growth potential we haven’t tapped into yet?
+✔️ Which products generate the most revenue and profit?  
+
+✔️ What are the top-performing regions or markets?  
+
+✔️ Which customer segments are the most valuable?  
+
+✔️ Are there markets with growth potential we haven’t tapped into yet?  
+
 ✔️ What trends can inform our product and market expansion strategies?  
 
 ### 🎯Project Outcome:  
