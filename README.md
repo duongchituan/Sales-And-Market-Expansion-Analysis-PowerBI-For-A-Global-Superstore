@@ -137,92 +137,69 @@ Explain the step-by-step approach taken to solve the problem.
 
 ### 🔍 Dashboard Preview  
 
-#### 1️⃣ Overview 
+#### 1️⃣ Region 
 
-![image](https://github.com/user-attachments/assets/ad0862a1-f30d-459d-8344-fa3a65757af8)  
-
-From 2011 to 2014, the company maintained a strong growth trajectory in both revenue and profit. In 2014 alone, revenue grew significantly (+24% vs. 2013). However, profit margin showed a slight decline across all three key markets (APAC, EU, and US), indicating some underlying issues with profitability efficiency.  
-
-![1](https://github.com/user-attachments/assets/be44600c-98c9-47d7-9c5d-aa8d50263cfc)
-
+![image](https://github.com/user-attachments/assets/64522d82-c85e-4cdd-8af5-73191d5bc5be)  
 
 📌 Analysis:  
 
- 📈 Revenue increased, but profit didn't keep up
-Profit margin peaked in 2013 (11.97%), not in 2014 when revenue was highest. This suggests that as revenue grew, costs also rose—implying the company may be trading margin for scale.
+- Total revenue reached $9.48M with a total profit of $1.09M. The average return rate is 4.68%, and the overall ROI is 13%. While the company is operating profitably overall, regional performance varies significantly and highlights clear areas for optimization and expansion.  
 
-🚚 Increase in high-cost shipping methods
-In 2014, there was a notable rise in orders using expensive shipping methods such as First Class and Same Day. This shift significantly raised logistics costs, which outpaced gross profit growth and eroded overall profitability.
+- The Central region generated the highest revenue ($2.07M) but only moderate ROI, with a return rate of 4.79%. This suggests potential inefficiencies in cost structure or operations. Regions like South and North show stable performance with decent revenue and ROI — current strategy can be maintained.
 
-🛍️ Higher share of low-margin product categories
-In particular, Office Supplies—a category with relatively low profit margins—experienced a surge in order volume. This shifted the product mix toward less profitable items, reducing the company's overall margin efficiency.  
+- In contrast, Canada and North Asia stand out with very high ROI (38.1% and 24%, respectively). Canada, though small in current revenue, presents a high-growth opportunity and should be prioritized for expansion. North Asia also shows strong profitability, but the return rate is high (13.83%), indicating issues with product quality, expectations, or logistics — which need to be resolved before scaling further.
 
-![2](https://github.com/user-attachments/assets/826e0533-f500-446f-8e68-1987362e13d3)
-
-🔁 Slight increase in return rate in APAC and US
-Compared to 2013, the return rate rose in key markets like APAC (4.99% → 5.04%) and US (5.90% → 6.12%) in 2014. While the change is small, when combined with expensive shipping and a weak product mix, it added to costs and reduced net revenue.  
-
-![3](https://github.com/user-attachments/assets/9509d04d-c6b4-4c28-bca9-6d7f80448e78)
-
-⚠️ Three factors combined to reduce profit margin
-The margin drop in 2014 was not caused by a single issue, but by a combination of:
-
-(1) increased use of high-cost shipping,
-(2) a rise in low-margin product share,
-(3) higher return rates.
-→ These factors together exerted cost pressure and squeezed profitability.
-
-🌍 EU – High revenue but also the highest return rate (6.18%)
-Although EU is one of the top contributors in both revenue and profit, it also has the highest return rate among all regions. This signals potential issues with product quality, after-sales service, or customer experience—and could hurt long-term margins if not addressed.
-
-🪑 Furniture – Underperforming product category
-Among the three main categories (Technology, Office Supplies, Furniture), Furniture generated the lowest profit. It may exist for catalog diversity, but in reality, it's dragging down the company's overall performance.  
+- Southeast Asia and EMEA deliver low ROI and minimal profit, suggesting a mismatch between product-market fit or operational inefficiencies. Investment in these regions should be limited or re-evaluated unless performance improves.
 
 💡 Recommendation:  
 
-- Review shipping policies, especially for orders using First Class and Same Day. Consider applying minimum order thresholds or extra fees to manage logistics costs.
+- Expand into high-ROI regions: Prioritize Canada and North Asia (with return rate improvements).
 
-- Restructure the product mix to reduce dependency on low-margin items (like Office Supplies) and promote cross-selling with higher-performing products.
+- Optimize cost & return rate in high-revenue regions like Central.
 
-- Investigate product quality and customer experience in the EU region, where the return rate is highest. Prioritize after-sales improvements or redesign return policies to limit loss.
+- Maintain steady operations in South, North, and West.
 
-- Reassess or scale down the Furniture category if it continues to underperform in upcoming periods.
-
-- Track profit per order more closely, not just overall revenue or profit, to quickly detect operational inefficiencies.
+- Limit further investment in Southeast Asia and EMEA until performance metrics improve.
 
 #### 2️⃣ Dashboard 2 Preview  
 
-![image](https://github.com/user-attachments/assets/57c30008-b5d0-49ba-ae73-cf41a7478857)
+![image](https://github.com/user-attachments/assets/99ef0e14-bbe6-4077-8bea-da71d6bc5f88)
 
 📌 Analysis:   
 
-🇨🇦 Canada – Small market with exceptionally high margin
-Despite contributing only $0.05M in revenue and $0.01M in profit, Canada recorded the highest profit margin (27.59%) in the entire dataset.
-⚠️ However, due to the small sample size, just a few large transactions could create an inflated margin.
-→ Further validation at the SKU/product level is needed to confirm its potential.
+- Total revenue reached $9.48M with a total profit of $1.09M and an average profit margin of 11.5%. The overall product return rate is 4.68%.  
 
-🌍 Africa – A small but surprisingly efficient market
-With $0.59M in revenue and $0.07M in profit, Africa reached a profit margin of 11.48%, aligning with the company average.
-→ This suggests potential for niche market expansion with controlled cost and focused targeting.  
+- Top revenue products include Phones ($1.38M), Copiers ($1.25M), and Chairs/Bookcases ($1.2M).
 
-🖨️ Copiers – Key profit driver in Canada
-Copiers contributed 38% of total profit in Canada, making it a standout product for scaling efforts in this market.
+- Highest profit contributors are Copiers ($0.22M), Phones ($0.18M), and Bookcases ($0.13M) — showing both strong sales and good margins.
 
-📱 Phones – High revenue, modest efficiency
-While it generated the highest revenue ($1.37M) across all SKUs, its profit margin is only 13.07%.
-→ A reassessment is needed to investigate operational or pricing inefficiencies.
+- In terms of ROI, Technology (16.98%) and Office Supplies (15.41%) outperform Furniture (7.12%).
 
-📄 Paper & Labels – Low-volume, high-margin SKUs
-Although small in revenue, these SKUs deliver 25%+ profit margins, suggesting strong potential if scaled carefully.
+- Products with high return rates include Tables (7.28%), Appliances (5.92%), and Accessories (5.72%).
+
+- Products with low return rates include Art (3.15%), Binders (3.61%), and Labels (3.75%).  
+
+⭐ Based on revenue, profit, ROI, and return rate, the following are recommended as strategic products:
+
+- Copiers: High revenue and profit, strong ROI, moderate return rate. Falls under the high-performing Technology category.
+
+- Phones: Highest revenue, decent profit, acceptable return rate. Great potential for market expansion.
+
+- Bookcases / Chairs: Consistent performance, but ROI can be improved through cost control (Furniture category).
+
+- Binders / Labels: Low-volume but low-return-rate products with stable margins — suitable for B2B or bulk-sale strategies.
 
 💡 Recommendation:  
 
-- Scale up operations in Canada, focusing on high-margin categories such as Copiers, Office Supplies, and Technology.
-→ A lean, margin-driven strategy could prove highly effective here.
+- Focus on Technology and Office Supplies categories due to high ROI and strong profitability. Prioritize products like Copiers and Phones for strategic growth.
 
-- Explore niche expansion in Africa with selective investment in high-margin SKUs. Prioritize low-risk, cost-effective channels to test the waters.
+- Reduce return rates for high-potential items like Tables and Appliances by improving product quality, descriptions, and customer experience.
 
-- Re-evaluate the overall SKU mix to reduce dependency on high-revenue but low-margin products like Phones, and shift toward smaller, high-efficiency items such as Paper and Labels.
+- Review underperforming products with low profit and high return rates for possible repositioning or phase-out.
+
+- Consider scaling stable niche products like Binders and Labels through bundled offers or business-targeted campaigns.
+
+
 
 
 ---
