@@ -1,4 +1,4 @@
-# 📊 Sales & Market Expansion Analysis (PowerBI)
+# 📊 Sales & Market Expansion Analysis For A Global Superstore (PowerBI)
 
 ---
 ![ChatGPT Image 13_27_57 23 thg 6, 2025](https://github.com/user-attachments/assets/2bb232ae-9c85-4725-8079-4247c7cd9f37)
