@@ -35,41 +35,12 @@ This project provides a Power BI dashboard to support strategic decision-making.
 
 ✔️ Senior managers & business decision-makers  
 
-✔️ Strategy teams exploring market expansion  
-
-✔️ Product managers evaluating performance  
-
 ✔️ Data analysts supporting executive insights  
 
 ###  ❓Business Questions:  
 ✔️ Which products generate the most revenue and profit?  
 
 ✔️ What are the top-performing regions or markets?  
-
-✔️ Which customer segments are the most valuable?  
-
-✔️ Are there markets with growth potential we haven’t tapped into yet?  
-
-✔️ What trends can inform our product and market expansion strategies?  
-
-### 🎯Project Outcome:  
-✔️ Profit Margin Decline in 2014:
-Despite a strong revenue increase (+24% vs. 2013), the company experienced a slight drop in overall profit margin (from 11.97% to 11.51%) due to rising operational costs.
-
-✔️ Shift Toward Costly Shipping Methods:
-There was an increase in order volume using high-cost shipping methods, especially First Class (+33%) and Same Day (+25%), which led to faster growth in shipping expenses than in gross profit.
-
-✔️ Suboptimal Product Mix Impacting Margins:
-The surge in Office Supplies orders—typically low-margin products—combined with costly shipping methods, contributed to the margin decline.
-
-✔️ Return Rate Remained Stable:
-Return rates in key markets (APAC, EU, US) remained steady (around 5–7%) and were not a major driver of profit decline.
-
-✔️ High-Margin Niche Market Identified:
-Canada, though a small market (Revenue: 0.05M), achieved the highest profit margin (27.59%), with Copiers contributing 38% of total profit—highlighting a highly efficient product-market fit.
-
-✔️ Expansion Opportunity Identified:
-Recommend a targeted expansion into Canada, focusing on high-margin products like Copiers, while avoiding scale-up of low-margin categories such as Office Supplies.  
 
 ---
 
@@ -87,9 +58,8 @@ Recommend a targeted expansion into Canada, focusing on high-margin products lik
 
 #### 1️⃣ Tables Used:  
 The dataset consists of three tables:  
-- Orders – Contains detailed transaction and customer information
 <details>
-<summary><strong>📊 Table 1: Orders</strong></summary>
+<summary><strong>📊 Table 1: Orders - Contains detailed transaction and customer information</strong></summary>
 
 | Column Name     | Data Type | Description                                         |
 |-----------------|-----------|-----------------------------------------------------|
@@ -115,9 +85,8 @@ The dataset consists of three tables:
 | Profit          | DECIMAL   | Profit earned from the order.                     |
 
 </details>
-- Returns – Stores data on returned orders.  
 <details>
-<summary><strong>📦 Table 2: Returns</strong></summary>
+<summary><strong>📦 Table 2: Returns – Stores data on returned orders</strong></summary>
 
 | Column Name | Data Type | Description                                           |
 |-------------|-----------|-------------------------------------------------------|
@@ -126,9 +95,8 @@ The dataset consists of three tables:
 
 </details>
 
-- People – Holds information about sales representatives.
 <details>
-<summary><strong>🧑‍💼 Table 3: People</strong></summary>
+<summary><strong>🧑‍💼 Table 3: People – Holds information about sales representatives</strong></summary>
 
 | Column Name | Data Type | Description                                           |
 |-------------|-----------|-------------------------------------------------------|
@@ -150,20 +118,19 @@ Explain the step-by-step approach taken to solve the problem.
 
 1️⃣ Empathize  
 
-![image](https://github.com/user-attachments/assets/0d266023-7860-4faa-8e0b-9d7d63a0789e)
-![image](https://github.com/user-attachments/assets/0263534c-443f-42cf-8f3e-6d9ff752c977)  
+![image](https://github.com/user-attachments/assets/9a174114-56d7-4db5-908c-f8bc29458b63)
+
+![Uploading image.png…]()
 
 2️⃣ Define point of view  
 
-![image](https://github.com/user-attachments/assets/01c1e607-acef-4da6-839b-74ef092edd69)  
+![image](https://github.com/user-attachments/assets/f8095e2f-de5a-4c4e-9544-2c587495725b)
 
 3️⃣ Ideate  
 
-![image](https://github.com/user-attachments/assets/2478ca06-3795-4549-bb80-051f23aee05a)
+![image](https://github.com/user-attachments/assets/3c861a6a-e804-44dc-85d5-6bc33c65d1b1)
 
-4️⃣ Prototype and review  
-
-This part is in the dashboard
+![image](https://github.com/user-attachments/assets/5f7e537a-a3a5-405c-abf2-ec70395024c1)
 
 ---
 
