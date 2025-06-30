@@ -114,13 +114,12 @@ The dataset consists of three tables:
 
 Explain the step-by-step approach taken to solve the problem.  
 
-👉🏻 Insert a screenshot of the Design Thinking steps (Screenshot your Excel design thinking tables for better presentation).  
-
 1️⃣ Empathize  
 
 ![image](https://github.com/user-attachments/assets/9a174114-56d7-4db5-908c-f8bc29458b63)
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/a1c30bda-9210-452c-ae6a-a097c89332d8)
+
 
 2️⃣ Define point of view  
 
