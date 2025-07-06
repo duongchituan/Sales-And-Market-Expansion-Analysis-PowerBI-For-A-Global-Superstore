@@ -171,7 +171,6 @@ Explain the step-by-step approach taken to solve the problem.
   
 - **Caribbean, Central Asia, Canada**: extremely high return rates (**114–583%**) with low revenue → not suitable for expansion.
 
-
 💡 Recommendation:  
 
 🔵 **Prioritize expansion in:**
@@ -191,41 +190,31 @@ Explain the step-by-step approach taken to solve the problem.
 
 #### 2️⃣ Product  
 
-![image](https://github.com/user-attachments/assets/d73a47f2-a64f-4569-b769-560539a1374a)
+![image](https://github.com/user-attachments/assets/6910602c-1d6e-4a07-a487-7ec85d06de45)
 
 📌 Analysis:   
 
-- Total revenue reached $9.48M with a total profit of $1.09M and an average profit margin of 11.5%. The overall product return rate is 4.68%.  
+- Top revenue-generating products include Phones ($1.38M), Copiers ($1.25M), and Chairs/Bookcases (each $1.20M). In terms of profitability, Copiers lead with $0.22M, followed by Phones ($0.18M) and Bookcases ($0.13M). These products not only deliver high revenue but also maintain solid profit margins, indicating strong potential for long-term sustainability and further expansion.  
 
-- Top revenue products include Phones ($1.38M), Copiers ($1.25M), and Chairs/Bookcases ($1.2M).
+- However, several product lines are experiencing unusually high return rates, such as Tables (174.15%), Fasteners (152.01%), and Labels (135.18%). These figures point to serious risks related to product quality or after-sales service processes. In contrast, Phones (44.24%), Chairs (52.36%), and Bookcases (60.54%) show relatively low return rates, suggesting these are more stable and reliable products, less likely to incur extra return or customer service costs.  
 
-- Highest profit contributors are Copiers ($0.22M), Phones ($0.18M), and Bookcases ($0.13M) — showing both strong sales and good margins.
+- Products positioned in the "high revenue – high profit" quadrant — such as Copiers, Phones, Bookcases, and Chairs — are strategic lines that should continue to be prioritized and strengthened. On the other hand, product lines like Fasteners, Supplies, Furnishings, and Labels, which fall into the "low revenue – low profit" zone, should be carefully reviewed for optimization or even removal if necessary.  
 
-- In terms of ROI, Technology (16.98%) and Office Supplies (15.41%) outperform Furniture (7.12%).
-
-- Products with high return rates include Tables (7.28%), Appliances (5.92%), and Accessories (5.72%).
-
-- Products with low return rates include Art (3.15%), Binders (3.61%), and Labels (3.75%).  
-
-⭐ Based on revenue, profit, ROI, and return rate, the following are recommended as strategic products:
-
-- Copiers: High revenue and profit, strong ROI, moderate return rate. Falls under the high-performing Technology category.
-
-- Phones: Highest revenue, decent profit, acceptable return rate. Great potential for market expansion.
-
-- Bookcases / Chairs: Consistent performance, but ROI can be improved through cost control (Furniture category).
-
-- Binders / Labels: Low-volume but low-return-rate products with stable margins — suitable for B2B or bulk-sale strategies.
+- Although smartphones top the revenue chart, they suffer from an extremely high return rate (over 2000%), significantly impacting their actual profitability. Meanwhile, underperforming items such as Avery Binder Labels, Push Pins, and Eureka Bags are experiencing severe losses with return rates as high as 117,200%, indicating no remaining business value and should be considered for elimination.  
 
 💡 Recommendation:  
 
-- Focus on Technology and Office Supplies categories due to high ROI and strong profitability. Prioritize products like Copiers and Phones for strategic growth.
+1. Prioritize Strategic Product Lines
+Focus on investing in and expanding high-performing products such as 🖨️ **Copiers**, 📱 **Phones**, 📚 **Bookcases**, and 🪑 **Chairs**.. These products significantly contribute to both **revenue** and **profit** while maintaining relatively **low and stable return rates**.
 
-- Reduce return rates for high-potential items like Tables and Appliances by improving product quality, descriptions, and customer experience.
+2. Improve Product Quality and After-Sales Processes
+For products with ⚠️ **high return rates** such as **Tables**, **Fasteners**, and **Labels**, it's crucial to re-evaluate **product quality**, **packaging**, **product descriptions**, and **return policies** to reduce financial risks caused by excessive returns.
 
-- Review underperforming products with low profit and high return rates for possible repositioning or phase-out.
+3. Optimize Product Portfolio
+Products that fall into the 💸 **“low revenue – low profit”** zone, such as **Fasteners**, **Supplies**, and **Furnishings**, should be gradually phased out or repositioned in the market. This helps the company focus its resources on more profitable lines.
 
-- Consider scaling stable niche products like Binders and Labels through bundled offers or business-targeted campaigns.
+4. Warning on Phone Category
+Although the 📱 **Phone category** generates the highest revenue, its extremely high return rate is significantly eroding actual profit. Stricter quality control, sourcing from more reputable suppliers, or improving after-sales service are necessary steps to prevent avoidable financial losses.
 
 
 
