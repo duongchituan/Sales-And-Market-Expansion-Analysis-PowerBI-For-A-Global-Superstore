@@ -139,7 +139,7 @@ Explain the step-by-step approach taken to solve the problem.
 
 #### 1️⃣ Region 
 
-![image](https://github.com/user-attachments/assets/64522d82-c85e-4cdd-8af5-73191d5bc5be)  
+![image](https://github.com/user-attachments/assets/6911d7ef-ec8b-4aee-b20c-0e50211214f1)
 
 📌 Analysis:  
 
@@ -161,9 +161,9 @@ Explain the step-by-step approach taken to solve the problem.
 
 - Limit further investment in Southeast Asia and EMEA until performance metrics improve.
 
-#### 2️⃣ Dashboard 2 Preview  
+#### 2️⃣ Product  
 
-![image](https://github.com/user-attachments/assets/99ef0e14-bbe6-4077-8bea-da71d6bc5f88)
+![image](https://github.com/user-attachments/assets/d37d8705-1d96-4195-87b4-15bb3ab8e501)  
 
 📌 Analysis:   
 
