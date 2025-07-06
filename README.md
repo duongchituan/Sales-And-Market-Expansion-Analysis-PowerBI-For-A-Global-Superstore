@@ -23,24 +23,33 @@ Tools Used: Power BI
 ### Objective:
 ### 📖 What is this project about? 
  
-This project provides a Power BI dashboard to support strategic decision-making. The objective is:  
+This project delivers a **Power BI dashboard** built using sales data from **Superstore**, a retail company with a diverse product portfolio. The core objective is to support **senior management** in making **strategic decisions**, particularly in two key areas: **market expansion** and **strategic product selection**.  
 
-- Understand company-wide sales performance
+By analyzing **company-wide sales and profit data**, the dashboard helps address critical business questions such as:
 
-- Identify top products & regions for market expansion
+- Which **products** generate the highest **revenue** and **profit**?
+  
+- Which **regions or markets** are performing best?
+- 
+- Are there **underperforming areas** or **growth opportunities** that need attention?
 
-- Support senior management in selecting strategic products 
+The dashboard provides leadership with the insights needed to:
+
+- Identify **high-potential markets** for expansion
+  
+- Select **strategic products** to prioritize for growth
+  
+- **Monitor trends over time** and evaluate performance by **region** and **product line**
+  
+- **Align decisions with real-time data** to drive effective, long-term growth  
+
+Ultimately, this project equips Superstore’s leadership with a clear, **data-driven foundation** to craft **market expansion strategies** and make **informed product decisions**.
 
 ### 👤 Who is this project for?  
 
 ✔️ Senior managers & business decision-makers  
 
 ✔️ Data analysts supporting executive insights  
-
-###  ❓Business Questions:  
-✔️ Which products generate the most revenue and profit?  
-
-✔️ What are the top-performing regions or markets?  
 
 ---
 
