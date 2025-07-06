@@ -30,7 +30,7 @@ By analyzing **company-wide sales and profit data**, the dashboard helps address
 - Which **products** generate the highest **revenue** and **profit**?
   
 - Which **regions or markets** are performing best?
-- 
+  
 - Are there **underperforming areas** or **growth opportunities** that need attention?
 
 The dashboard provides leadership with the insights needed to:
