@@ -139,31 +139,59 @@ Explain the step-by-step approach taken to solve the problem.
 
 #### 1️⃣ Region 
 
-![image](https://github.com/user-attachments/assets/6911d7ef-ec8b-4aee-b20c-0e50211214f1)
+![image](https://github.com/user-attachments/assets/234583e1-3625-4070-92ab-4c421cbfb8f1)
 
 📌 Analysis:  
 
-- Total revenue reached $9.48M with a total profit of $1.09M. The average return rate is 4.68%, and the overall ROI is 13%. While the company is operating profitably overall, regional performance varies significantly and highlights clear areas for optimization and expansion.  
+1️⃣ Overall performance:  
 
-- The Central region generated the highest revenue ($2.07M) but only moderate ROI, with a return rate of 4.79%. This suggests potential inefficiencies in cost structure or operations. Regions like South and North show stable performance with decent revenue and ROI — current strategy can be maintained.
+- Revenue reached **$3.21M** (+24.41% compared to 2013), and profit was **$369.74K** (+19.56%), showing strong revenue growth but slower profit growth.
 
-- In contrast, Canada and North Asia stand out with very high ROI (38.1% and 24%, respectively). Canada, though small in current revenue, presents a high-growth opportunity and should be prioritized for expansion. North Asia also shows strong profitability, but the return rate is high (13.83%), indicating issues with product quality, expectations, or logistics — which need to be resolved before scaling further.
+- ROI decreased to **13%** (↓4.41%), reflecting rising costs or shrinking profit margins.
 
-- Southeast Asia and EMEA deliver low ROI and minimal profit, suggesting a mismatch between product-market fit or operational inefficiencies. Investment in these regions should be limited or re-evaluated unless performance improves.
+- The **return rate** decreased to **13.74%** (**↓21.22% vs. 2013**), suggesting **improvements in product quality** or **customer experience**, helping to **reduce logistics costs** and **improve profitability**.
+
+2️⃣ Time trend:  
+
+- Revenue increased consistently from 2011 to 2014.
+  
+- Profit margin remained around **10–12%**, indicating revenue growth did not translate into higher profitability.
+
+3️⃣ Regional performance:  
+
+- **Central**: largest revenue (**$2.07M**) and highest profit (**$212K**), lowest return rate (**22.38%**), ROI **11.45%**.
+  
+- **South**: second-highest revenue (**$1.18M**), solid profit (**$99.5K**), good return rate (**36%**), ROI **9.24%**.
+  
+- **North**: high profit and ROI (**$148K**, **18.83%**), acceptable return rate (**49.81%**).
+  
+- **North Asia**: highest ROI (**24%**) and strong profit (**$122K**), but very high return rate (**101.91%**), indicating major risks.
+  
+- Other regions (West, Oceania, EMEA, Africa, Southeast Asia, East) show high return rates (**50–84%**) and average or low ROI → not efficient for expansion at this stage.
+  
+- **Caribbean, Central Asia, Canada**: extremely high return rates (**114–583%**) with low revenue → not suitable for expansion.
+
 
 💡 Recommendation:  
 
-- Expand into high-ROI regions: Prioritize Canada and North Asia (with return rate improvements).
+🔵 **Prioritize expansion in:**
+- **Central**: most stable market, largest scale, lowest return risk → continue investing, focus on improving ROI through cost optimization.
+  
+- **South**: large market size, moderate return rate, low ROI but potential for increased efficiency with better cost control.
+  
+- **North**: high profit and ROI, acceptable return rate → suitable for simultaneous expansion with Central and South.
 
-- Optimize cost & return rate in high-revenue regions like Central.
+🟡 **Consider conditional expansion in:**
+- **North Asia**: expand only after addressing causes of extremely high return rates, as ROI and profit margins are promising.
 
-- Maintain steady operations in South, North, and West.
-
-- Limit further investment in Southeast Asia and EMEA until performance metrics improve.
+🔴 **Do not expand now in:**
+- West, Oceania, EMEA, Africa, Southeast Asia, East: high return rates and insufficient ROI.
+  
+- Caribbean, Central Asia, Canada: extremely high return rates and low revenue; investigate causes before any expansion.
 
 #### 2️⃣ Product  
 
-![image](https://github.com/user-attachments/assets/d37d8705-1d96-4195-87b4-15bb3ab8e501)  
+![image](https://github.com/user-attachments/assets/d73a47f2-a64f-4569-b769-560539a1374a)
 
 📌 Analysis:   
 
