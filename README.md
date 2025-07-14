@@ -148,7 +148,7 @@ Explain the step-by-step approach taken to solve the problem.
 
 #### 1️⃣ Region 
 
-![image](https://github.com/user-attachments/assets/234583e1-3625-4070-92ab-4c421cbfb8f1)
+<img width="1306" height="809" alt="image" src="https://github.com/user-attachments/assets/51f867a2-7b94-4cf6-8720-b95a49e6df67" />
 
 📌 Analysis:  
 
