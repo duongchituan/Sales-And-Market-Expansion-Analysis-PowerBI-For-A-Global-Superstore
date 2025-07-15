@@ -1,4 +1,4 @@
-# 📊 Sales & Market Expansion Analysis For A Global Superstore (PowerBI)
+# 📊 Sales and Market Expansion Analysis for a Global Retailer of Office Supplies, Furniture, and Technology (Power BI)
 
 ---
 ![ChatGPT Image 13_27_57 23 thg 6, 2025](https://github.com/user-attachments/assets/2bb232ae-9c85-4725-8079-4247c7cd9f37)
@@ -23,27 +23,23 @@ Tools Used: Power BI
 ### Objective:
 ### 📖 What is this project about? 
  
-This project delivers a **Power BI dashboard** built using sales data from **Superstore**, a retail company with a diverse product portfolio. The core objective is to support **senior management** in making **strategic decisions**, particularly in two key areas: **market expansion** and **strategic product selection**.  
+This project delivers a **Power BI dashboard** built using sales data from Superstore, a retail company with a diverse product portfolio. The core objective is to support senior management in making strategic decisions, particularly in two key areas: **market expansion** and **product selection**.  
 
-By analyzing **company-wide sales and profit data**, the dashboard helps address critical business questions such as:
+🔍 By analyzing company-wide sales and profit data, the dashboard helps address critical business questions such as:
 
-- Which **products** generate the highest **revenue** and **profit**?
-  
-- Which **regions or markets** are performing best?
-  
-- Are there **underperforming areas** or **growth opportunities** that need attention?
+- Which products generate the highest **revenue** and **profit**?
+- Which regions or markets are performing best?
+- Are there underperforming areas or **growth opportunities** that need attention?
 
-The dashboard provides leadership with the insights needed to:
+💡 The dashboard provides leadership with the insights needed to:
 
-- Identify **high-potential markets** for expansion
-  
-- Select **strategic products** to prioritize for growth
-  
-- **Monitor trends over time** and evaluate performance by **region** and **product line**
-  
-- **Align decisions with real-time data** to drive effective, long-term growth  
+- Identify **high-potential markets** for expansion  
+- Select **strategic products** to prioritize for growth  
+- Monitor trends over time and evaluate performance by region and product line  
+- Align decisions with real-time data to drive effective, long-term growth  
 
-Ultimately, this project equips Superstore’s leadership with a clear, **data-driven foundation** to craft **market expansion strategies** and make **informed product decisions**.
+Ultimately, this project equips Superstore’s leadership with a clear, **data-driven foundation** to craft **expansion strategies** and make informed product decisions.
+
 
 ### 👤 Who is this project for?  
 
