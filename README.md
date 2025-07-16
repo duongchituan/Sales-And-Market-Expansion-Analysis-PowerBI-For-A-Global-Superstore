@@ -150,55 +150,42 @@ Explain the step-by-step approach taken to solve the problem.
 
 1️⃣ Overall performance:  
 
-- **Revenue** reached **$3.21M** (+24.41% compared to 2013), and **profit** was **$369.74K** (+19.56%), indicating strong revenue growth but slower profit growth.
-  
-- **ROI** decreased to **13%** (↓4.41%), reflecting lower investment efficiency or rising costs.
-  
+- **Revenue** reached **$3.21M** (+24.41% compared to 2013), and **profit** was **$369.74K** (+19.56%), indicating strong revenue growth but slower profit growth.  
+- **ROI** decreased to **13%** (↓4.41%), reflecting lower investment efficiency or rising costs.  
 - **Return rate** dropped significantly to **4.55%** (↓3.57% vs. 2013), suggesting improvements in product quality or customer experience, contributing to lower logistics costs and better operational efficiency.
 
 2️⃣ Time trend:  
 
-- **Revenue** increased steadily from 2011 to 2014.
-  
+- **Revenue** increased steadily from 2011 to 2014.  
 - **Profit margin** remained relatively flat, fluctuating between **11–12%**, indicating that revenue growth did not lead to higher profitability.
+
 3️⃣ Regional performance:  
 
-- **Central**: Largest revenue (**$2.07M**) and highest profit (**$212K**), lowest return rate (**4.8%**), ROI **10.3%** → _Stable, large-scale, low risk_.
-  
-- **South**: Revenue **$1.18M**, profit **$100K**, return rate **3.8%**, ROI **15.8%** → _Efficient and scalable_.
-  
-- **North**: Profit **$148K**, ROI **14.2%**, return rate **10%** → _Acceptable risk with strong profitability_.
-  
-- **North Asia (China)**: ROI **26.9%**, profit **$110K**, return rate **13.3%** → _Very high efficiency with manageable risk_.
-  
-- **Central Asia (India)**: Revenue **$4.12M**, profit **$95.5K**, return rate **2.3%**, but ROI only **2.3%** → _Margin/cost structure needs improvement_.
-  
-- **Southeast Asia, East, Africa, Oceania**: ROI between **11–13.6%**, return rate <4%, revenue modest → _Potential with further development_.
-  
-- **West, EMEA**: ROI <9%, return rate >10% → _Not optimal for scaling_.
-  
+- **North Asia (China)**: ROI **26.8%**, profit **$110K**, return rate **13.3%** → _Very high efficiency with manageable risk_.  
+- **Central Asia (India)**: Revenue **$445K**, profit **$95.5K**, return rate **2.3%**, ROI **27.3%** → _Highly efficient and low-risk, suitable for scaling_.  
+- **North (United Kingdom)**: Profit **$85.4K**, ROI **28.0%**, return rate **6.0%** → _Excellent ROI with controlled risk_.  
+- **West (United States)**: Revenue **$569K**, profit **$80.9K**, return rate **11.7%**, ROI **16.6%** → _Reasonable efficiency but return rate needs attention_.  
+- **Oceania (Australia)**: Revenue **$708K**, profit **$79.6K**, return rate **3.7%**, ROI **12.7%** → _Stable region with good expansion potential_.  
+- **Africa, Southeast Asia, East**: ROI between **11–13.6%**, return rate <4%, revenue modest → _Potential with further development_.  
+- **EMEA**: ROI <9%, return rate >10% → _Not optimal for scaling_.  
 - **Canada, Caribbean**: Zero profit and ROI, very low revenue → _Not viable at this stage_.
 
 💡 Recommendation:  
 
-🔵 **Prioritize expansion in:**
-- **Central**: Most stable and profitable region with low return rate → continue investment and improve ROI via cost control.
-  
-- **South**: High ROI, low return rate, and scalable → optimize operations for higher return.
-  
-- **North**: Strong profit and ROI, manageable return rate → suitable for parallel expansion.
-  
-- **North Asia (China)**: Excellent ROI and profit; return rate now under control → strong candidate for strategic expansion.
+🔵 **Prioritize expansion in:**  
+- **North Asia (China)**: Excellent ROI and profit; return rate manageable → strong candidate for strategic expansion.  
+- **Central Asia (India)**: Very low return rate and high ROI → aggressively pursue growth.  
+- **North (United Kingdom)**: Strong ROI, good profit, and low return risk → scale with confidence.  
+- **Oceania (Australia)**: Low return rate and solid ROI → safe for mid-term expansion.
 
-🟡 **Consider conditional expansion in:**
-- **Central Asia (India)**: Low return rate, large revenue base, but ROI is low → expand only after addressing cost/margin inefficiencies.
-  
-- **Southeast Asia, East, Africa, Oceania**: Promising ROI and low return rate, but smaller scale → test further with controlled investment.
+🟡 **Consider conditional expansion in:**  
+- **West (United States)**: Moderate return rate requires attention before expansion.  
+- **Africa, Southeast Asia, East**: Low return rate and fair ROI, but scale is limited → test with controlled investment.
 
-🔴 **Do not expand now in:**
-- **West, EMEA**: High return rate and low ROI → not cost-effective for growth.
-  
-- **Canada, Caribbean**: No profitability, low revenue, and zero ROI → unsuitable for any expansion unless root issues are addressed.
+🔴 **Do not expand now in:**  
+- **EMEA**: High return rate and low ROI → not cost-effective.  
+- **Canada, Caribbean**: No profitability, very low revenue → unsuitable unless core issues are resolved.
+
 #### 2️⃣ Product  
 
 <img width="1164" height="801" alt="image" src="https://github.com/user-attachments/assets/fc65dd11-a897-47a8-93d6-333e37875c35" />
