@@ -146,7 +146,7 @@ Explain the step-by-step approach taken to solve the problem.
 
 <img width="1309" height="802" alt="image" src="https://github.com/user-attachments/assets/4c4055f9-ef35-4391-8129-3bf0ca257718" />
 
-##### 📌 Analysis:  
+📌 Analysis:  
 
 1️⃣ Overall performance:  
 
@@ -179,7 +179,7 @@ Explain the step-by-step approach taken to solve the problem.
   
 - **Canada, Caribbean**: Zero profit and ROI, very low revenue → _Not viable at this stage_.
 
-##### 💡 Recommendation:  
+💡 Recommendation:  
 
 🔵 **Prioritize expansion in:**
 - **Central**: Most stable and profitable region with low return rate → continue investment and improve ROI via cost control.
@@ -201,34 +201,32 @@ Explain the step-by-step approach taken to solve the problem.
 - **Canada, Caribbean**: No profitability, low revenue, and zero ROI → unsuitable for any expansion unless root issues are addressed.
 #### 2️⃣ Product  
 
-![image](https://github.com/user-attachments/assets/6910602c-1d6e-4a07-a487-7ec85d06de45)
+<img width="1164" height="801" alt="image" src="https://github.com/user-attachments/assets/fc65dd11-a897-47a8-93d6-333e37875c35" />
 
-##### 📌 Analysis:   
+📌 Analysis:   
 
-- Top revenue-generating products include Phones ($1.38M), Copiers ($1.25M), and Chairs/Bookcases (each $1.20M). In terms of profitability, Copiers lead with $0.22M, followed by Phones ($0.18M) and Bookcases ($0.13M). These products not only deliver high revenue but also maintain solid profit margins, indicating strong potential for long-term sustainability and further expansion.  
+- Top revenue-generating products include Phones ($1.4M), Copiers ($1.2M), and Chairs/Bookcases (each $1.2M). In terms of profitability, Copiers lead with $0.2M, followed by Chairs ($0.2M), Phones ($0.2M), and Bookcases ($0.13M). These products not only deliver high revenue but also maintain solid profit margins and moderate return rates (~5%), indicating strong potential for long-term sustainability and further expansion.
 
-- However, several product lines are experiencing unusually high return rates, such as Tables (174.15%), Fasteners (152.01%), and Labels (135.18%). These figures point to serious risks related to product quality or after-sales service processes. In contrast, Phones (44.24%), Chairs (52.36%), and Bookcases (60.54%) show relatively low return rates, suggesting these are more stable and reliable products, less likely to incur extra return or customer service costs.  
+- Return rates are now generally under control, with most products below 6%. The highest return rates are found in Tables (7.3%), Appliances (5.9%), and Accessories (5.7%). While these are not alarmingly high, they may still indicate risks in product quality, positioning, or cost structure. In contrast, Phones (5.0%), Chairs (5.3%), and Bookcases (5.3%) show stable performance across revenue, profit, and return rate dimensions.
 
-- Products positioned in the "high revenue – high profit" quadrant — such as Copiers, Phones, Bookcases, and Chairs — are strategic lines that should continue to be prioritized and strengthened. On the other hand, product lines like Fasteners, Supplies, Furnishings, and Labels, which fall into the "low revenue – low profit" zone, should be carefully reviewed for optimization or even removal if necessary.  
+- Products positioned in the "high revenue – high profit" quadrant — such as Copiers, Phones, Bookcases, and Chairs — are strategic lines that should continue to be prioritized and strengthened. On the other hand, product lines like Fasteners, Supplies, Furnishings, and Binders, which fall into the "low revenue – low profit" zone, should be carefully reviewed for optimization or repositioning, but not urgent removal as previously assumed.
 
-- Although smartphones top the revenue chart, they suffer from an extremely high return rate (over 2000%), significantly impacting their actual profitability. Meanwhile, underperforming items such as Avery Binder Labels, Push Pins, and Eureka Bags are experiencing severe losses with return rates as high as 117,200%, indicating no remaining business value and should be considered for elimination.  
+- Some products still appear in the bottom performance group — such as Avery Binder Labels, Push Pins, and Eureka Bags — with negative or very low profit margins (up to -275%), though return rates have dropped to acceptable levels (<5%). These products may no longer deliver business value and should be evaluated for discontinuation.  
 
-##### 💡 Recommendation:  
+💡 Recommendation:  
 
 1. Prioritize Strategic Product Lines
-Focus on investing in and expanding high-performing products such as 🖨️ **Copiers**, 📱 **Phones**, 📚 **Bookcases**, and 🪑 **Chairs**.. These products significantly contribute to both **revenue** and **profit** while maintaining relatively **low and stable return rates**.
+Focus on investing in and expanding high-performing products such as 🖨️ Copiers, 📱 Phones, 📚 Bookcases, and 🪑 Chairs.
+These products significantly contribute to both revenue and profit while maintaining relatively low and stable return rates.
 
-2. Improve Product Quality and After-Sales Processes
-For products with ⚠️ **high return rates** such as **Tables**, **Fasteners**, and **Labels**, it's crucial to re-evaluate **product quality**, **packaging**, **product descriptions**, and **return policies** to reduce financial risks caused by excessive returns.
+2. Optimize Product Quality and Profitability
+For products with ⚠️ moderate return rates like Tables, Appliances, and Accessories, it's important to re-evaluate pricing, quality control, and product positioning to reduce financial and operational risks.
 
-3. Optimize Product Portfolio
-Products that fall into the 💸 **“low revenue – low profit”** zone, such as **Fasteners**, **Supplies**, and **Furnishings**, should be gradually phased out or repositioned in the market. This helps the company focus its resources on more profitable lines.
+3. Refine Product Portfolio
+Products that fall into the 💸 “low revenue – low profit” zone, such as Fasteners, Supplies, Furnishings, and Binders, should be reviewed for either gradual repositioning or eventual phasing out, depending on long-term profitability potential.
 
-4. Warning on Phone Category
-Although the 📱 **Phone category** generates the highest revenue, its extremely high return rate is significantly eroding actual profit. Stricter quality control, sourcing from more reputable suppliers, or improving after-sales service are necessary steps to prevent avoidable financial losses.
-
-
-
+4. Discontinue Loss-Making Items
+Products like Avery Binder Labels, Hidden Tab Dividers, Push Pins, and Eureka Bags, which show consistently negative profit margins, even with acceptable return rates, should be discontinued to avoid unnecessary financial loss.
 
 ---
 
