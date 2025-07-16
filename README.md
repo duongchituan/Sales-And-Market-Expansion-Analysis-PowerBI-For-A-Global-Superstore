@@ -146,7 +146,7 @@ Explain the step-by-step approach taken to solve the problem.
 
 <img width="1309" height="802" alt="image" src="https://github.com/user-attachments/assets/4c4055f9-ef35-4391-8129-3bf0ca257718" />
 
-📌 Analysis:  
+#### 📌 Analysis:  
 
 1️⃣ Overall performance:  
 
@@ -170,7 +170,7 @@ Explain the step-by-step approach taken to solve the problem.
 - **EMEA**: ROI <9%, return rate >10% → _Not optimal for scaling_.  
 - **Canada, Caribbean**: Zero profit and ROI, very low revenue → _Not viable at this stage_.
 
-💡 Recommendation:  
+#### 💡 Recommendation:  
 
 🔵 **Prioritize expansion in:**  
 - **North Asia (China)**: Excellent ROI and profit; return rate manageable → strong candidate for strategic expansion.  
@@ -190,7 +190,7 @@ Explain the step-by-step approach taken to solve the problem.
 
 <img width="1164" height="801" alt="image" src="https://github.com/user-attachments/assets/fc65dd11-a897-47a8-93d6-333e37875c35" />
 
-📌 Analysis:   
+#### 📌 Analysis:   
 
 - Top revenue-generating products include Phones ($1.4M), Copiers ($1.2M), and Chairs/Bookcases (each $1.2M). In terms of profitability, Copiers lead with $0.2M, followed by Chairs ($0.2M), Phones ($0.2M), and Bookcases ($0.13M). These products not only deliver high revenue but also maintain solid profit margins and moderate return rates (~5%), indicating strong potential for long-term sustainability and further expansion.
 
@@ -200,7 +200,7 @@ Explain the step-by-step approach taken to solve the problem.
 
 - Some products still appear in the bottom performance group — such as Avery Binder Labels, Push Pins, and Eureka Bags — with negative or very low profit margins (up to -275%), though return rates have dropped to acceptable levels (<5%). These products may no longer deliver business value and should be evaluated for discontinuation.  
 
-💡 Recommendation:  
+#### 💡 Recommendation:  
 
 1. Prioritize Strategic Product Lines
 Focus on investing in and expanding high-performing products such as 🖨️ Copiers, 📱 Phones, 📚 Bookcases, and 🪑 Chairs.
