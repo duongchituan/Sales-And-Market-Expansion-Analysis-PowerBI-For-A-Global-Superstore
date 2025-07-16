@@ -146,7 +146,7 @@ Explain the step-by-step approach taken to solve the problem.
 
 <img width="1309" height="802" alt="image" src="https://github.com/user-attachments/assets/4c4055f9-ef35-4391-8129-3bf0ca257718" />
 
-📌 Analysis:  
+##### 📌 Analysis:  
 
 1️⃣ Overall performance:  
 
@@ -179,7 +179,7 @@ Explain the step-by-step approach taken to solve the problem.
   
 - **Canada, Caribbean**: Zero profit and ROI, very low revenue → _Not viable at this stage_.
 
-💡 Recommendation:  
+##### 💡 Recommendation:  
 
 🔵 **Prioritize expansion in:**
 - **Central**: Most stable and profitable region with low return rate → continue investment and improve ROI via cost control.
@@ -203,7 +203,7 @@ Explain the step-by-step approach taken to solve the problem.
 
 ![image](https://github.com/user-attachments/assets/6910602c-1d6e-4a07-a487-7ec85d06de45)
 
-📌 Analysis:   
+##### 📌 Analysis:   
 
 - Top revenue-generating products include Phones ($1.38M), Copiers ($1.25M), and Chairs/Bookcases (each $1.20M). In terms of profitability, Copiers lead with $0.22M, followed by Phones ($0.18M) and Bookcases ($0.13M). These products not only deliver high revenue but also maintain solid profit margins, indicating strong potential for long-term sustainability and further expansion.  
 
@@ -213,7 +213,7 @@ Explain the step-by-step approach taken to solve the problem.
 
 - Although smartphones top the revenue chart, they suffer from an extremely high return rate (over 2000%), significantly impacting their actual profitability. Meanwhile, underperforming items such as Avery Binder Labels, Push Pins, and Eureka Bags are experiencing severe losses with return rates as high as 117,200%, indicating no remaining business value and should be considered for elimination.  
 
-💡 Recommendation:  
+##### 💡 Recommendation:  
 
 1. Prioritize Strategic Product Lines
 Focus on investing in and expanding high-performing products such as 🖨️ **Copiers**, 📱 **Phones**, 📚 **Bookcases**, and 🪑 **Chairs**.. These products significantly contribute to both **revenue** and **profit** while maintaining relatively **low and stable return rates**.
