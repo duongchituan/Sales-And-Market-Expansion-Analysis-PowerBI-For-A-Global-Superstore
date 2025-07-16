@@ -144,55 +144,61 @@ Explain the step-by-step approach taken to solve the problem.
 
 #### 1️⃣ Region 
 
-<img width="1306" height="809" alt="image" src="https://github.com/user-attachments/assets/51f867a2-7b94-4cf6-8720-b95a49e6df67" />
+<img width="1309" height="802" alt="image" src="https://github.com/user-attachments/assets/4c4055f9-ef35-4391-8129-3bf0ca257718" />
 
 📌 Analysis:  
 
 1️⃣ Overall performance:  
 
-- Revenue reached **$3.21M** (+24.41% compared to 2013), and profit was **$369.74K** (+19.56%), showing strong revenue growth but slower profit growth.
-
-- ROI decreased to **13%** (↓4.41%), reflecting rising costs or shrinking profit margins.
-
-- The **return rate** decreased to **13.74%** (**↓21.22% vs. 2013**), suggesting **improvements in product quality** or **customer experience**, helping to **reduce logistics costs** and **improve profitability**.
+- **Revenue** reached **$3.21M** (+24.41% compared to 2013), and **profit** was **$369.74K** (+19.56%), indicating strong revenue growth but slower profit growth.
+  
+- **ROI** decreased to **13%** (↓4.41%), reflecting lower investment efficiency or rising costs.
+  
+- **Return rate** dropped significantly to **4.55%** (↓3.57% vs. 2013), suggesting improvements in product quality or customer experience, contributing to lower logistics costs and better operational efficiency.
 
 2️⃣ Time trend:  
 
-- Revenue increased consistently from 2011 to 2014.
+- **Revenue** increased steadily from 2011 to 2014.
   
-- Profit margin remained around **10–12%**, indicating revenue growth did not translate into higher profitability.
-
+- **Profit margin** remained relatively flat, fluctuating between **11–12%**, indicating that revenue growth did not lead to higher profitability.
 3️⃣ Regional performance:  
 
-- **Central**: largest revenue (**$2.07M**) and highest profit (**$212K**), lowest return rate (**22.38%**), ROI **11.45%**.
+- **Central**: Largest revenue (**$2.07M**) and highest profit (**$212K**), lowest return rate (**4.8%**), ROI **10.3%** → _Stable, large-scale, low risk_.
   
-- **South**: second-highest revenue (**$1.18M**), solid profit (**$99.5K**), good return rate (**36%**), ROI **9.24%**.
+- **South**: Revenue **$1.18M**, profit **$100K**, return rate **3.8%**, ROI **15.8%** → _Efficient and scalable_.
   
-- **North**: high profit and ROI (**$148K**, **18.83%**), acceptable return rate (**49.81%**).
+- **North**: Profit **$148K**, ROI **14.2%**, return rate **10%** → _Acceptable risk with strong profitability_.
   
-- **North Asia**: highest ROI (**24%**) and strong profit (**$122K**), but very high return rate (**101.91%**), indicating major risks.
+- **North Asia (China)**: ROI **26.9%**, profit **$110K**, return rate **13.3%** → _Very high efficiency with manageable risk_.
   
-- Other regions (West, Oceania, EMEA, Africa, Southeast Asia, East) show high return rates (**50–84%**) and average or low ROI → not efficient for expansion at this stage.
+- **Central Asia (India)**: Revenue **$4.12M**, profit **$95.5K**, return rate **2.3%**, but ROI only **2.3%** → _Margin/cost structure needs improvement_.
   
-- **Caribbean, Central Asia, Canada**: extremely high return rates (**114–583%**) with low revenue → not suitable for expansion.
+- **Southeast Asia, East, Africa, Oceania**: ROI between **11–13.6%**, return rate <4%, revenue modest → _Potential with further development_.
+  
+- **West, EMEA**: ROI <9%, return rate >10% → _Not optimal for scaling_.
+  
+- **Canada, Caribbean**: Zero profit and ROI, very low revenue → _Not viable at this stage_.
 
 💡 Recommendation:  
 
 🔵 **Prioritize expansion in:**
-- **Central**: most stable market, largest scale, lowest return risk → continue investing, focus on improving ROI through cost optimization.
+- **Central**: Most stable and profitable region with low return rate → continue investment and improve ROI via cost control.
   
-- **South**: large market size, moderate return rate, low ROI but potential for increased efficiency with better cost control.
+- **South**: High ROI, low return rate, and scalable → optimize operations for higher return.
   
-- **North**: high profit and ROI, acceptable return rate → suitable for simultaneous expansion with Central and South.
+- **North**: Strong profit and ROI, manageable return rate → suitable for parallel expansion.
+  
+- **North Asia (China)**: Excellent ROI and profit; return rate now under control → strong candidate for strategic expansion.
 
 🟡 **Consider conditional expansion in:**
-- **North Asia**: expand only after addressing causes of extremely high return rates, as ROI and profit margins are promising.
+- **Central Asia (India)**: Low return rate, large revenue base, but ROI is low → expand only after addressing cost/margin inefficiencies.
+  
+- **Southeast Asia, East, Africa, Oceania**: Promising ROI and low return rate, but smaller scale → test further with controlled investment.
 
 🔴 **Do not expand now in:**
-- West, Oceania, EMEA, Africa, Southeast Asia, East: high return rates and insufficient ROI.
+- **West, EMEA**: High return rate and low ROI → not cost-effective for growth.
   
-- Caribbean, Central Asia, Canada: extremely high return rates and low revenue; investigate causes before any expansion.
-
+- **Canada, Caribbean**: No profitability, low revenue, and zero ROI → unsuitable for any expansion unless root issues are addressed.
 #### 2️⃣ Product  
 
 ![image](https://github.com/user-attachments/assets/6910602c-1d6e-4a07-a487-7ec85d06de45)
