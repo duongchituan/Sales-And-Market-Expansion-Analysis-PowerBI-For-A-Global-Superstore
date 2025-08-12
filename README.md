@@ -144,7 +144,7 @@ Explain the step-by-step approach taken to solve the problem.
 
 #### 1️⃣ Region 
 
-<img width="1309" height="802" alt="image" src="https://github.com/user-attachments/assets/4c4055f9-ef35-4391-8129-3bf0ca257718" />
+<img width="1302" height="807" alt="image" src="https://github.com/user-attachments/assets/51c05829-7f78-4583-a9e1-93468b26a5a4" />
 
 ### 📌 Analysis:  
 
@@ -188,7 +188,7 @@ Explain the step-by-step approach taken to solve the problem.
 
 #### 2️⃣ Product  
 
-<img width="1164" height="801" alt="image" src="https://github.com/user-attachments/assets/fc65dd11-a897-47a8-93d6-333e37875c35" />
+<img width="1147" height="804" alt="image" src="https://github.com/user-attachments/assets/e8aa94fa-b327-43ba-93ca-b394f87e52ef" />
 
 ### 📌 Analysis:   
 
